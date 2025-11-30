@@ -1,14 +1,25 @@
-# biixcode-osint
-Minimal example OSINT project structure.
+# 🛡️ BIIXCODE OSINT Framework
 
-## Structure
-- modules/: small python modules for domain/social/email/ip utilities
-- config/: api keys and user agents
-- outputs/: generated output (empty by default)
-- bx4me.py: simple CLI runner
-- requirements.txt: example deps
+Advanced Open Source Intelligence (OSINT) tool untuk pengumpulan informasi dari sumber publik.
 
-## Notes
-- This is a lightweight starter template. Replace placeholder functions with
-  real implementations and store secrets outside source control.
-- For WHOIS use `python-whois` or a paid API. For IP enrichment use Shodan/AbuseIPDB etc.
+## ✨ Fitur
+
+- **Domain Intelligence**: WHOIS, DNS records, subdomain discovery
+- **Email Investigation**: Validasi, reputasi, breach checking
+- **IP Analysis**: Geolokasi, threat intelligence, port scanning
+- **Social Media Recon**: Pencarian profil di 20+ platform
+- **Advanced Recon**: Teknologi detection, directory enumeration
+
+## 🚀 Instalasi
+
+```bash
+# Clone repository
+git clone https://github.com/biixcode/osint-tool.git
+cd bixcode-osint
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Configure API keys (optional)
+cp config/api_keys.py.example config/api_keys.py
+# Edit config/api_keys.py dengan API keys Anda
