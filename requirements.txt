@@ -1,1 +1,11 @@
-requests\nbeautifulsoup4\npython-whois\n
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-whois==0.8.0
+dnspython==2.4.2
+urllib3==1.26.16
+colorama==0.4.6
+lxml==4.9.3
+soupsieve==2.5
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
