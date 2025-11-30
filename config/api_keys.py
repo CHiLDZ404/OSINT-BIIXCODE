@@ -1,0 +1,55 @@
+"""
+BIIXCODE OSINT - API Keys Configuration
+Simpan API keys Anda di sini untuk berbagai layanan OSINT
+"""
+
+# VirusTotal API Key
+VIRUSTOTAL_API_KEY = "YOUR_VIRUSTOTAL_API_KEY_HERE"
+
+# Shodan API Key
+SHODAN_API_KEY = "YOUR_SHODAN_API_KEY_HERE"
+
+# Hunter.io API Key (Email Verification)
+HUNTER_API_KEY = "YOUR_HUNTER_API_KEY_HERE"
+
+# Have I Been Pwned API Key
+HIBP_API_KEY = "YOUR_HIBP_API_KEY_HERE"
+
+# SecurityTrails API Key
+SECURITYTRAILS_API_KEY = "YOUR_SECURITYTRAILS_API_KEY_HERE"
+
+# WhoisXML API Key
+WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY_HERE"
+
+# Censys API Keys
+CENSYS_API_ID = "YOUR_CENSYS_API_ID_HERE"
+CENSYS_API_SECRET = "YOUR_CENSYS_API_SECRET_HERE"
+
+# GreyNoise API Key
+GREYNOISE_API_KEY = "YOUR_GREYNOISE_API_KEY_HERE"
+
+# AlienVault OTX API Key
+OTX_API_KEY = "YOUR_OTX_API_KEY_HERE"
+
+# ZoomEye API Key
+ZOOMEYE_API_KEY = "YOUR_ZOOMEYE_API_KEY_HERE"
+
+# FullContact API Key
+FULLCONTACT_API_KEY = "YOUR_FULLCONTACT_API_KEY_HERE"
+
+# Clearbit API Key
+CLEARBIT_API_KEY = "YOUR_CLEARBIT_API_KEY_HERE"
+
+# EmailRep API Key
+EMAILREP_API_KEY = "YOUR_EMAILREP_API_KEY_HERE"
+
+# DeHashed API Key
+DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY_HERE"
+
+# Social Links API Key
+SOCIAL_LINKS_API_KEY = "YOUR_SOCIAL_LINKS_API_KEY_HERE"
+
+# Instructions:
+# 1. Dapatkan API keys dari layanan yang diinginkan
+# 2. Ganti placeholder dengan API keys asli
+# 3. Jangan commit file ini ke repository publik!
